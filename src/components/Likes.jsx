@@ -19,3 +19,15 @@
 	 // hint: take the total likes as a prop, and convert it to state
 
 import React from 'react';
+class Likes extends React.Component {
+	render() {
+	  return (
+		<div>
+		   This is the likes page
+		</div>
+	  );
+	}
+  }
+
+  export default Likes;
+
